@@ -1,3 +1,3 @@
 ### About me
 
-Hi everyone, here is JJOrange, you can also call me Richard. Deep rocking in vibe coding and AI agents developing now ...
+I am an engineer who is genuinely fascinated by AI and by the way it can change how people create, learn, and work. What I enjoy most is turning abstract AI capabilities into useful, intuitive experiences: understanding what a user is really trying to achieve, breaking down complex problems, and designing systems that make intelligent behavior feel natural rather than forced. I am especially good at learning new domains quickly, connecting product thinking with technical execution, and finding practical ways to make AI tools more reliable, contextual, and helpful. My software engineering background gives me the discipline to build things that are not only interesting as prototypes, but also clear, maintainable, and ready for real users.
